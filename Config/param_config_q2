@@ -1,0 +1,5 @@
+[int_params]
+BOARD_SIZE_X = 6
+BOARD_SIZE_Y = 9
+a = 22
+[float_params]

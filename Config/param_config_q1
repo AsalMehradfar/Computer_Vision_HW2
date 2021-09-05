@@ -1,0 +1,5 @@
+[int_params]
+MAX_ITERATIONS = 500
+NUM_FRAMES = 900
+[float_params]
+R = 0.7

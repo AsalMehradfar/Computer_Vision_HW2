@@ -1,0 +1,8 @@
+[path]
+video_resource_path = resources\video.mp4
+resource_path = resources\
+res_path = res\
+frames_path = VideoFrames\
+low_resolution_frames_path = VideoFramesLowRes\
+homography_frames_path = HomographyFrames\
+background_frames_path = BackgroundFrames\
