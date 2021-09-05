@@ -8,7 +8,7 @@ This is my Second Homework in Computer Vision Course. This Homework consists of 
 *Part Three:* imaging raw video to a reference frame <br>
 *Part Four:* making background panorama <br>
 *Part Five:* making background video <br>
-*Part Six:* making fore ground video <br>
+*Part Six:* making foreground video <br>
 *Part Seven:* making the video wider <br>
 **Question Two:** Camera Calibration <br>
 
